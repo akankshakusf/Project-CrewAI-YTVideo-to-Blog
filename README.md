@@ -1,5 +1,7 @@
 # 📌 Project: Automating YouTube-to-Blog Conversion Using CrewAI
 
+App link:https://gen-ai-app-summarize-text-from-yt-or-website-n6tvtebnz7opvvtug.streamlit.app/
+
 ## **📢 Project Overview**
 
 This project explores the power of **CrewAI multi-agent systems** to automate content extraction and blog generation from YouTube videos. The goal was to create an AI-powered workflow that extracts information from financial or technical YouTube videos and converts them into structured, readable blog content.
